@@ -1,5 +1,5 @@
 # PyGPT Modeling
-Hi there! I am using ChatGPT to help create forecasting methods for WxChallege that I don't have the ability to code myself. All ideas are my own.
+Hi there! I am using ChatGPT to help create forecasting methods for WxChallenge that I don't have the ability to code myself. All ideas are my own.
 
 Using this should be as simple as running the program in whatever software you use. It should spit out variables that you can use to multiply other forecast models together to get closer to observed values.
 
